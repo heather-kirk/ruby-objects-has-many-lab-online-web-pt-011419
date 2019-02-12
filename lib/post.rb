@@ -8,4 +8,6 @@ class Post
     @title = title
     @@all << self 
   end 
+  
+  
 end 
