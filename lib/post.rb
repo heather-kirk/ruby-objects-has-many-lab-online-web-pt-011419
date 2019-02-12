@@ -13,4 +13,8 @@ class Post
     self.author.name if author 
   end 
   
+  def self.all
+    @post 
+  end 
+  
 end 
