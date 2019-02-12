@@ -6,6 +6,8 @@ class Author
   end 
   
   def posts(post) 
+    post << self 
+    
   end 
   
   def add_post(post)
