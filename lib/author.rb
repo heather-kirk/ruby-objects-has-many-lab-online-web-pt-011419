@@ -15,7 +15,7 @@ class Author
   end 
   
   def add_post_by_title 
-    != nil 
+    
   end 
   
   def self.post_count
